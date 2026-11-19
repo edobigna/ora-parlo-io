@@ -16,9 +16,9 @@ In una chat di Codex con lo strumento di modifica immagini disponibile, richiama
 
 Esempi:
 
-- «Usa $ora-parlo-io con questa foto.»
-- «Usa $ora-parlo-io con questa foto e cambia il testo in “ADESSO BASTA”.»
-- «Usa $ora-parlo-io e cambia soltanto il testo in “TOCCA A ME”.»
+- «Usa @ora-parlo-io con questa foto.»
+- «Usa @ora-parlo-io con questa foto e cambia il testo in “ADESSO BASTA”.»
+- «Usa @ora-parlo-io e cambia soltanto il testo in “TOCCA A ME”.»
 
 La skill richiede lo strumento immagini integrato di Codex. Il risultato è una modifica generativa: la fedeltà al template e la resa del testo possono variare.
 
